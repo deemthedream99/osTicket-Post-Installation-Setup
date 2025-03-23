@@ -1,4 +1,4 @@
-# Active Directory Homelab Setup 
+# osTicket Post-Installation Setup
 
 ## Overview
 This project documents the setup and configuration of a [Lab Name] environment using [Software/OS].
